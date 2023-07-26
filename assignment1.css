@@ -1,0 +1,178 @@
+.business{
+   /* text-align: center; */
+    background-color: lightseagreen;
+    color: black;
+    width: 400px;
+    margin: 60px auto;
+    border-radius: 18px;
+    padding:100px 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.business_p{
+    color: black;
+}
+
+.btn{
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 10px 100px;
+    font-size: 20px;
+    border-radius: 40px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.image{
+    width: 20%;
+    border-radius: 100%;
+    margin-top: 5%;
+    padding: 40px;
+}
+
+.Profiles{
+    /* border: 2px solid lightgray; */
+    width: 460px;
+    /* padding: 10px 20px; */
+    margin: 60px auto;
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.kk{
+    border: 2px solid lightgray;
+    width: 560px;
+    border-radius: 14px;
+    margin: 60px auto;
+}
+
+.prof_para{
+    color: gray;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.icon-para{
+    color: gray;
+    font-size: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h3{
+    size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+p{
+    color: rgb(0, 156, 252);
+    font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.main_intro{
+    font-size: 30px;
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.Google_photos{
+    border: 2px solid lightgray;
+    width: 420px;
+    margin: 60px auto;
+    border-radius: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.google_img{
+    width: 100%;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+.btn-google{
+    color: rgb(0, 156, 252);
+    background-color: white;
+    border: none;
+    padding: 14px 50px;
+    font-size: 25px;
+    border: 1.5px solid lightgray;
+    border-radius: 10px;
+    /* font-weight: bold; */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.google-body{
+    padding: 20px 20px 35px 20px;
+}
+
+.line{
+    width: 100%;
+}
+
+.sf{
+    padding: 5px 30px;
+}
+
+i{
+    padding: 5px 10px;
+}
+
+
+.login{
+    padding: 10px 100px;
+    width: 400px;
+    margin: 60px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* border: 3px solid red; */
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: small;
+}
+
+.flodesk-img{
+    width: 50%;
+    padding: 10px 100px;
+}
+
+.btn-login{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 14px 30px;
+    font-size: 15px;
+    border-radius: 40px;
+    font-style: normal;
+    font-weight: bold;
+    width: 50%;
+    margin: 10px auto;
+
+}
+
+.input{
+    padding: 12px 14px;
+    border-radius: 12px;
+    border: 1px solid lightgray;
+    font-size: smaller;
+    width: 50%;
+    margin: 5px auto;
+}
+
+.member{
+    color: gray;
+    font-size: small;
+    padding-bottom: 2px;
+}
+
+.sign-up{
+    text-decoration: underline;
+    color: black;
+    font-size: small;
+}
+
